@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SE2.props" />
+</Project>

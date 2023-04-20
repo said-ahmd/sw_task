@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqe0iGXj44yM2zrgFeqRdrR9wreG5uR2Zqjykm1qXgmbYVzg/xAxDWi9NJWDg1j24GjqkvEzKSiPiAk875RbzQ==",
+  "success": true,
+  "projectFilePath": "/home/said/Desktop/SE2-Task1/SE2/SE2.csproj",
+  "expectedPackageFiles": [
+    "/home/said/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.17.2/microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "/home/said/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/said/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/said/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

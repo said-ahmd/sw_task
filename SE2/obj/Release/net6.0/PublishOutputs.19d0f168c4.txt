@@ -1,0 +1,7 @@
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\SE2.exe
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\appsettings.Development.json
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\appsettings.json
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\SE2.dll
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\SE2.deps.json
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\SE2.runtimeconfig.json
+D:\programming\MVC\SE2\SE2\SE2\obj\Docker\publish\SE2.pdb

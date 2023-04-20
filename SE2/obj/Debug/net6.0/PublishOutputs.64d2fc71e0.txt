@@ -1,0 +1,7 @@
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/SE2
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/appsettings.json
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/SE2.dll
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/SE2.deps.json
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/SE2.runtimeconfig.json
+/home/said/Desktop/SE2-Task1/SE2/bin/Debug/net6.0/publish/SE2.pdb
